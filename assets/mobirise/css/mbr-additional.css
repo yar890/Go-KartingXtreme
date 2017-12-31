@@ -2440,7 +2440,13 @@ body {
 .cid-qFkwkI8qih {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/screenshot-12-1919x999.png");
+}
+.cid-qFkwkI8qih H2 {
+  color: #efefef;
+}
+.cid-qFkwkI8qih .mbr-section-subtitle {
+  color: #efefef;
 }
 .cid-qF86AltgRk {
   padding-top: 45px;
@@ -2573,25 +2579,25 @@ body {
     width: 100% !important;
   }
 }
-.cid-qFpc75OTzB {
+.cid-qFpdKdcCu1 {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
   position: relative;
 }
-.cid-qFpc75OTzB p {
+.cid-qFpdKdcCu1 p {
   color: #767676;
 }
-.cid-qFpc75OTzB .card {
+.cid-qFpdKdcCu1 .card {
   border-radius: 0px;
   margin-bottom: -1px;
 }
-.cid-qFpc75OTzB .card .card-header {
+.cid-qFpdKdcCu1 .card .card-header {
   border-radius: 0px;
   border: 0px;
   padding: 0;
 }
-.cid-qFpc75OTzB .card .card-header a.panel-title {
+.cid-qFpdKdcCu1 .card .card-header a.panel-title {
   margin-bottom: 0;
   margin-top: -1px;
   font-weight: 500;
@@ -2600,15 +2606,15 @@ body {
   text-decoration: none !important;
   line-height: normal;
 }
-.cid-qFpc75OTzB .card .card-header a.panel-title:focus {
+.cid-qFpdKdcCu1 .card .card-header a.panel-title:focus {
   text-decoration: none !important;
 }
-.cid-qFpc75OTzB .card .card-header a.panel-title h4 {
+.cid-qFpdKdcCu1 .card .card-header a.panel-title h4 {
   border: 1px solid #dfdfdf;
   padding: 1.3rem 2rem;
   margin-bottom: 0;
 }
-.cid-qFpc75OTzB .card .card-header a.panel-title h4 .sign {
+.cid-qFpdKdcCu1 .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
 }
 .cid-qF82oLj1iY {
