@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Go-Karting Xtreme",
-    "currentPage": "page1.html",
+    "currentPage": "careers.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,7 +42,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "The Home Page",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -786,9 +786,9 @@
         }
       ]
     },
-    "page1.html": {
+    "careers.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "The Career Page",
         "title": "Careers",
         "order": 1
       },
