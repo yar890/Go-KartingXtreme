@@ -2437,6 +2437,11 @@ body {
     margin-left: 0 !important;
   }
 }
+.cid-qFkwkI8qih {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
+}
 .cid-qF86AltgRk {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -2449,7 +2454,7 @@ body {
   color: #ffffff;
 }
 .cid-qF8890lmMH {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ac0000;
 }
@@ -2479,31 +2484,8 @@ body {
   padding-bottom: 60px;
   background-color: #ac0000;
 }
-.cid-qFebjqOhyA {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-qFebjqOhyA .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qFebjqOhyA .section-text {
-  padding: 2rem 0;
-}
-.cid-qFebjqOhyA .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qFebjqOhyA .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-qFebFZ7RZ6 {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -2527,17 +2509,26 @@ body {
 }
 .cid-qFecje83vJ .mbr-text {
   color: #767676;
+  text-align: right;
+}
+.cid-qFkxrD9p6m {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-qFfeEUxMLf {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-color: #ac0000;
 }
 .cid-qFfeEUxMLf .mbr-section-subtitle {
-  color: #767676;
+  color: #efefef;
+}
+.cid-qFfeEUxMLf H2 {
+  color: #ffffff;
 }
 .cid-qFfeDadWnG {
-  padding-top: 60px;
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #ac0000;
 }
@@ -2552,7 +2543,30 @@ body {
   }
 }
 .cid-qFfeDadWnG .mbr-text {
-  color: #767676;
+  color: #efefef;
+}
+.cid-qFebjqOhyA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-qFebjqOhyA .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qFebjqOhyA .section-text {
+  padding: 2rem 0;
+}
+.cid-qFebjqOhyA .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qFebjqOhyA .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-qF80Y2CYQp {
   padding-top: 60px;
