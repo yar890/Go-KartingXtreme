@@ -2481,7 +2481,7 @@ body {
 }
 .cid-qF85SVpgL5 {
   padding-top: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 45px;
   background-color: #ac0000;
 }
 .cid-qFebFZ7RZ6 {
@@ -2494,7 +2494,7 @@ body {
 }
 .cid-qFecje83vJ {
   padding-top: 15px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -2512,8 +2512,8 @@ body {
   text-align: right;
 }
 .cid-qFkxrD9p6m {
-  padding-top: 15px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-qFfeEUxMLf {
@@ -2529,7 +2529,7 @@ body {
 }
 .cid-qFfeDadWnG {
   padding-top: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ac0000;
 }
 @media (min-width: 992px) {
@@ -2544,6 +2544,11 @@ body {
 }
 .cid-qFfeDadWnG .mbr-text {
   color: #efefef;
+}
+.cid-qFpauwv4zY {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-color: #ac0000;
 }
 .cid-qFebjqOhyA {
   padding-top: 30px;
@@ -2568,43 +2573,43 @@ body {
     width: 100% !important;
   }
 }
-.cid-qF80Y2CYQp {
+.cid-qFpc75OTzB {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
   position: relative;
 }
-.cid-qF80Y2CYQp .card {
+.cid-qFpc75OTzB p {
+  color: #767676;
+}
+.cid-qFpc75OTzB .card {
   border-radius: 0px;
   margin-bottom: -1px;
 }
-.cid-qF80Y2CYQp .card .card-header {
+.cid-qFpc75OTzB .card .card-header {
   border-radius: 0px;
   border: 0px;
   padding: 0;
 }
-.cid-qF80Y2CYQp .card .card-header a.panel-title {
+.cid-qFpc75OTzB .card .card-header a.panel-title {
   margin-bottom: 0;
-  font-style: normal;
+  margin-top: -1px;
   font-weight: 500;
+  font-style: normal;
   display: block;
   text-decoration: none !important;
-  margin-top: -1px;
   line-height: normal;
 }
-.cid-qF80Y2CYQp .card .card-header a.panel-title:focus {
+.cid-qFpc75OTzB .card .card-header a.panel-title:focus {
   text-decoration: none !important;
 }
-.cid-qF80Y2CYQp .card .card-header a.panel-title h4 {
-  padding: 1.3rem 2rem;
+.cid-qFpc75OTzB .card .card-header a.panel-title h4 {
   border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
   margin-bottom: 0;
 }
-.cid-qF80Y2CYQp .card .card-header a.panel-title h4 .sign {
+.cid-qFpc75OTzB .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
-}
-.cid-qF80Y2CYQp .card .panel-body {
-  color: #767676;
 }
 .cid-qF82oLj1iY {
   padding-top: 45px;
